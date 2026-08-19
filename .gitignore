@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Local virtual environments and tool caches
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local copies expected by test_forces.py; canonical examples remain tracked
+/ci_psis.npz
+/mo_coeff.npz
+
+# Common calculation output
+*.log
+*.out
+*.err
+
