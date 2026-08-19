@@ -1,4 +1,4 @@
-# CASCI-NNQS Molecular Force Evaluation
+# CASCI-NNQS Forces Calculation
 
 This repository contains the source code and example data used to evaluate
 molecular nuclear forces from a CASCI-NNQS wave function. The code reconstructs
